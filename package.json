@@ -19,12 +19,12 @@
     "mysql": "^2.17.1",
     "mysql2": "^1.6.5",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
+    "passport-jwt": "^4.0.1",
     "pug": "^2.0.4",
     "redis": "^2.8.0",
     "sequelize": "^5.15.1",
     "serverless-http": "^2.2.0",
-    "serverless-offline": "^5.10.1"
+    "serverless-offline": "^12.0.4"
   },
   "devDependencies": {
     "sequelize-cli": "^5.5.0"
